@@ -15,7 +15,7 @@ U can expand tests set by this way:
 3) Add your expected output as "expected_output.txt"
 4) Add your expected Graphiz formatted graph as "expected_graph.dot"
 
-##Supports extensions:
+## Supports extensions:
 * `.exe`
 * `.py`
 * `.jar` (maybe)
